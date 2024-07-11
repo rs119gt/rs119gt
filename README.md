@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Rick
 #### Web Development and Design
 🏠 I am from India 
+
 👨‍🎓 I am a Computer Science and Engineering Student
+
 💻 I love creating beautiful Web Applications
 
 Skills:
